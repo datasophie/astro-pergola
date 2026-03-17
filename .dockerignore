@@ -1,0 +1,7 @@
+.cache
+.config
+.npm
+.git
+/site/.astro
+/site/node_modules
+/site/build
