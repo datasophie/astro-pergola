@@ -35,6 +35,8 @@ https://demo-astro-dev.apps.pergola.cloud/
 Want to learn more about [Projects](https://docs.pergola.cloud/docs/reference/projects), [Stages](https://docs.pergola.cloud/docs/reference/stages), [Releases](https://docs.pergola.cloud/docs/reference/releases)...?
 Here is the full Pergola [documentation](https://docs.pergola.cloud).
 
+And here is [more background](DETAILS.md) about what is going on in this repo.
+
 ## Contributing
 
 Pull requests are always welcome! Thank you.
